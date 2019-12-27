@@ -13,7 +13,7 @@ $("#submitLogin").click(function(event) {
       if(!HASH) log_fail();
       else{
         setCoo456ysahjkie(HASH, 1);
-        window.location.href = '/ithutech';
+        window.location.href = '/doan2019';
         $("#login").css({'display':'none  ', 'opacity':'0'});
         document.querySelector(".input-group .loading").classList.add("is-hidden");
 
