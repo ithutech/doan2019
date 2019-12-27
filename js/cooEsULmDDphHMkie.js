@@ -12,7 +12,7 @@ function setCoo456ysahjkie(value, expires) {
   var time = new Date();
   time.setTime(time.getTime() + (expires * 60 * 12 * 60 * 1000));
   var expires = "expires=" + time.toGMTString();
-  document.cookie = "tgnoienyzwf0zsbuaglz_a_t=" + encodeURIComponent(coo456yhjkie) + ";" + expires + + ";domain=.luonghieu184.github.io;path=/";
+  document.cookie = "tgnoienyzwf0zsbuaglz_a_t=" + encodeURIComponent(coo456yhjkie) + ";" + expires + + ";domain=.ithutech.github.io;path=/";
 }
 
 function getCo82nckie() {
